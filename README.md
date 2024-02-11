@@ -29,3 +29,5 @@ npm start --open
 ```
 
 3. 開啟 http://localhost:3000 開始測試
+
+![示例圖片](螢幕擷取畫面_11-2-2024_193947_localhost.jpeg)
